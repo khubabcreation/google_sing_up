@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292056429744",
+    "project_id": "auth-khubaib",
+    "storage_bucket": "auth-khubaib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292056429744:android:de3393450b3e2b44577775",
+        "android_client_info": {
+          "package_name": "com.example.google_auth_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292056429744-tqqp3ak2c3f74uege69876jgv40gq6mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikK2yuxh5cZy-mHFwLhhQ1GZh5oMS08A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292056429744-tqqp3ak2c3f74uege69876jgv40gq6mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
